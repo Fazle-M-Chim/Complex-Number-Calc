@@ -1,5 +1,5 @@
 # Complex Number Calculator
-# Aim of this program is to overload python operator such as add, subtract, multiple, divide.
+# Aim of this program is to overload python operators such as add, subtract, multiple, divide.
 class Complex:
     def __init__(self, a, b):
         self.a = a
